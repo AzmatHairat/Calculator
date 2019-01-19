@@ -1,6 +1,7 @@
 public class Calculator {
     //This is a very useful method.
     public static double add (double num1 , double num2){
+        int testNG = 1+1;
         return num1 + num2;
 
     }
