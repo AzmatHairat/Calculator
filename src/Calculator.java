@@ -18,6 +18,11 @@ public class Calculator {
         return num1 * num2;
     }
 
+    public static double divide(double nu1, double nu2){
+        double result = nu1 /nu2;
+        return result;
+    }
+
 
 
 }
